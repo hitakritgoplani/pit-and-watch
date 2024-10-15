@@ -1,0 +1,48 @@
+@import url('../assets/fonts/fonts.css');
+
+.head-root {
+    width: 100dvw;
+    height: 12dvh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #e7261f; */
+    background-color: rgb(225 6 0);
+    /* background-color: white; */
+    font-family: 'F1RacingBold', sans-serif;
+    /* border-bottom: 0.2dvh black solid; */
+}
+
+.head-content {
+    width: 95%;
+    height: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 0 1dvw; */
+}
+
+.title {
+    font-family: 'F1RacingBold';
+    font-size: 1.5rem;
+}
+
+.screening-btn {
+    text-align: center;
+    font-size: 0.8rem;
+    cursor: pointer;
+    padding: 1dvh 1dvw;
+    width: 7dvw;
+    height: 5dvh;
+    border: 0;
+    border-radius: 0.2rem;
+    background-color: white;
+    color: black;
+}
+
+.screening-btn:hover {
+    background-color: white;
+    color: black;
+    border: 0.1rem black solid;
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'F1RacingBold';
+    src: url('./Formula1-Bold.otf') format('opentype');
+}
+  
+@font-face {
+    font-family: 'F1SpeedRegular';
+    src: url('./Formula1-Regular.otf') format('opentype');
+}
+  
+@font-face {
+    font-family: 'F1PitLaneWide';
+    src: url('./Formula1-Wide.otf') format('opentype');
+}
+  
